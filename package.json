@@ -1,0 +1,12 @@
+{
+  "name": "github-actions-deploy-test",
+  "version": "1.0.0",
+  "description": "Test deployment with GitHub Actions",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
